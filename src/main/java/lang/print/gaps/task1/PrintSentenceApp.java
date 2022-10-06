@@ -6,7 +6,7 @@ public class PrintSentenceApp {
         System.out.println("is");
         System.out.println("my");
         System.out.println("first");
-        System.out.println("java");
+        System.out.println("Java");
         System.out.println("program");
     }
 }
